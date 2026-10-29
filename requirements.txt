@@ -1,0 +1,7 @@
+distlib==0.4.3
+filelock==3.32.3
+multipledispatch==1.0.0
+mysql-connector-python==26.7.0
+platformdirs==4.11.3
+python-discovery==1.5.2
+virtualenv==21.7.4

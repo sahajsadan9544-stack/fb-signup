@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+}
+
+.fbheader{
+    background-color: rgb(39, 107, 202);
+    padding: 15px;
+    position: relative;
+}
+
+.fblogo{
+    color: rgb(235, 235, 235);
+    position: relative;
+    top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logform{
+    position: absolute;
+    right: 20px;
+    top: 18px;
+}
+#emailname{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+#eid{
+    position: relative;
+    top: 20px;
+    left: -92px;
+}
+
+#passname{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+#pid{
+    position: relative;
+    top: 20px;
+    left: -60px;
+}
+#logbtn{
+    padding: 5px;
+    position: relative;
+    top: 18px;
+    color: white;
+    background-color: rgb(62, 115, 161);
+}
+
+
+
+.connect{
+    position: absolute;
+    top: 130px;
+    left: 15px;
+}
+.connect h3{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fillup{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.fillup h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fillup p{
+    position: relative;
+    top: -15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#para{
+    font-size: small;
+}
+
+#signup{
+    background-color: green;
+    padding: 5px;
+    width: 100px;
+    color: white;
+}
